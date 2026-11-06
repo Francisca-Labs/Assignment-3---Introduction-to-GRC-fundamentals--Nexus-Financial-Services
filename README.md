@@ -1,8 +1,8 @@
-\# Nexus Financial Services – Introduction to GRC Fundamentals\
-\
+  Introduction to GRC Fundamentals at Nexus Financial Services 
+  
 This project examines the Governance, Risk Management, and Compliance (GRC) weaknesses identified at Nexus Financial Services, a growing financial services organization without a formal GRC structure. It identifies three key organizational gaps and recommends a structured GRC framework to strengthen accountability, risk management, regulatory compliance, and continuous improvement.\
 \
-\## Table of Contents\
+Table of Contents\
 \
 \- Project Overview\
 \- Network Topology\
@@ -11,7 +11,7 @@ This project examines the Governance, Risk Management, and Compliance (GRC) weak
 \- Results and Findings\
 \- Author\
 \
-\## Project Overview\
+Project Overview\
 \
 This project assesses existing GRC practices at Nexus Financial Services, identifies organizational weaknesses, and recommends practical improvements to establish a formal GRC programme.\
 \
@@ -21,7 +21,7 @@ The assessment focuses on three fundamental GRC domains:\
 \- \*\*Risk Management:\*\* Evaluates how the organization identifies, assesses, prioritizes, and manages potential business risks.\
 \- \*\*Compliance:\*\* Examines how regulatory obligations, industry requirements, internal policies, and compliance deadlines are monitored and fulfilled.\
 \
-\*\*Project Objectives:\*\*\
+Project Objectives:\*\*\
 \
 \- Understand the fundamental principles of Governance, Risk Management, and Compliance.\
 \- Identify three major GRC weaknesses within Nexus Financial Services.\
@@ -56,11 +56,11 @@ The project is based on GRC assessment principles, organizational analysis, and 
 \
 \*\*Note:\*\* The case study does not specify particular GRC software, network devices, operating systems, or hardware. The tools listed above represent recommended GRC processes and documentation rather than confirmed software deployments.\
 \
-\## Steps\
-\
-1\. \*\*Review the Organizational Case Study\*\*\
-&#x20;  \- Examined the Nexus Financial Services scenario.\
-&#x20;  \- Reviewed the organization's existing operational structure and identified the absence of a formal GRC programme.\
+Steps
+
+1 Review the Organizational Case Study\*\*\
+- Examined the Nexus Financial Services scenario.\
+- Reviewed the organization's existing operational structure and identified the absence of a formal GRC programme.\
 \
 2\. \*\*Establish the GRC Assessment Criteria\*\*\
 &#x20;  \- Defined Governance, Risk Management, and Compliance.\
