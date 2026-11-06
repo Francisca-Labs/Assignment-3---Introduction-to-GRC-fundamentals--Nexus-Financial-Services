@@ -42,7 +42,7 @@ The proposed GRC structure includes three interconnected functional areas:\
 \
 These functions operate within an integrated GRC framework supported by management oversight and continuous monitoring.\
 \
-\## Tools and Technologies\
+Tools and Technologies\
 \
 The project is based on GRC assessment principles, organizational analysis, and recommended governance practices.\
 \
@@ -54,7 +54,7 @@ The project is based on GRC assessment principles, organizational analysis, and 
 \- \*\*Management Oversight:\*\* Organizational accountability and monitoring of GRC activities.\
 \- \*\*Continuous Improvement:\*\* Ongoing evaluation and enhancement of GRC processes.\
 \
-\*\*Note:\*\* The case study does not specify particular GRC software, network devices, operating systems, or hardware. The tools listed above represent recommended GRC processes and documentation rather than confirmed software deployments.\
+Note:\*\* The case study does not specify particular GRC software, network devices, operating systems, or hardware. The tools listed above represent recommended GRC processes and documentation rather than confirmed software deployments.\
 \
 Steps
 
@@ -126,29 +126,28 @@ Steps
 &#x20;   \- Evaluate policy implementation and accountability.\
 &#x20;   \- Update priorities as organizational risks and regulatory responsibilities evolve.\
 \
-\## Results and Findings\
+Results and Findings
 \
 The assessment identified three major weaknesses in the GRC structure of Nexus Financial Services.\
 \
-\*\*1. Governance Weakness\*\*\
+1. Governance Weakness\*\*\
 \
 \- No formal process exists for approving, implementing, communicating, or enforcing company policies.\
 \- Decision-making authority and accountability are not clearly established.\
 \- The organization requires designated policy owners and management oversight.\
-\
-\*\*2. Risk Management Weakness\*\*\
+2. Risk Management Weakness\*\*\
 \
 \- No standardized process exists for identifying and assessing risks before business decisions.\
 \- Potential business risks may be overlooked or inconsistently evaluated.\
 \- A formal risk assessment methodology and maintained risk register are required.\
 \
-\*\*3. Compliance Weakness\*\*\
+3. Compliance Weakness\*\*\
 \
 \- No designated individual is responsible for monitoring regulatory requirements and compliance deadlines.\
 \- The organization may fail to identify regulatory changes or meet applicable obligations on time.\
 \- A compliance register, assigned ownership, and evidence-retention procedures are recommended.\
 \
-\*\*Key Project Outcome\*\*\
+Key Project Outcome\*\*\
 \
 The assessment established that Nexus Financial Services' primary challenge is the absence of a formal GRC structure rather than insufficient employee effort.\
 \
@@ -156,17 +155,17 @@ A formal GRC framework was recommended to improve organizational accountability,
 \
 The proposed implementation sequence is:\
 \
-\*\*Ownership and Accountability → Compliance Tracking → Risk Assessment → Policy Governance → GRC Integration → Continuous Improvement\*\*\
+Ownership and Accountability → Compliance Tracking → Risk Assessment → Policy Governance → GRC Integration → Continuous Improvement\*\*\
 \
 Establishing GRC ownership and accountability provides the foundation for implementation. Compliance tracking receives early attention because missed regulatory obligations may have significant consequences for a financial services organization. However, risk assessment and policy governance remain equally important and should be prioritized according to actual risk exposure and regulatory requirements.\
 \
-\*\*Overall Conclusion\*\*\
+Overall Conclusion\*\*\
 \
 This project demonstrates how a structured GRC assessment can identify organizational weaknesses and translate them into practical improvement recommendations. Implementing the proposed framework would help Nexus Financial Services establish clearer responsibilities, improve risk management practices, strengthen compliance monitoring, and develop a more mature and sustainable GRC programme.\
 \
-\## Author\
+Author
 \
-\*\*Ogochukwu Francisca Kelvin-Nwaigwe\*\*\
+Ogochukwu Francisca Kelvin-Nwaigwe
 \
 \- \*\*Professional Focus:\*\* Governance, Risk, and Compliance (GRC)\
 \- \*\*Project:\*\* Introduction to GRC Fundamentals\
@@ -177,6 +176,6 @@ This project demonstrates how a structured GRC assessment can identify organizat
 \- \*\*LinkedIn:\*\* [https://www.linkedin.com/in/francisca-kelvin-nwaigwe/]\
 \- \*\*Email:\*\* [franciscakelvinnwaigwe@gmail.com]\
 \
-\*\*Project Submission Date:\*\* September 25, 2026\
+Project Submission Date:\*\* September 25, 2026\
 \
-\*\*Training Organization:\*\* 10Alytics Consulting
+Training Organization:\*\* 10Alytics Consulting
